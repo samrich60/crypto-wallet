@@ -3,7 +3,7 @@
 Projeto Prático Integrador em React Native  
 **Disciplina:** Programação Aplicativos Móveis  
 **Professor:** Karython Gomes
-**Dupla:** Sammy Richard - TADS // João Victor de Castro Souza
+**Dupla:** Sammy Richard - TADS // João Victor de Castro Souza - TADS  
 **UNIDESC**
 
 ---
