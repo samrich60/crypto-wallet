@@ -1,8 +1,9 @@
 # 🪙 CryptoWallet — Monitorador de Criptomoedas
 
 Projeto Prático Integrador em React Native  
-**Disciplina:** Programação de Banco de Dados SQL  
-**Professor:** Karython Gomes  
+**Disciplina:** Programação Aplicativos Móveis  
+**Professor:** Karython Gomes
+**Dupla:** Sammy Richard - TADS // João Victor de Castro Souza
 **UNIDESC**
 
 ---
@@ -66,7 +67,7 @@ const firebaseConfig = {
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/crypto-wallet.git
+git clone https://github.com/samrich60/crypto-wallet.git
 cd crypto-wallet
 
 # 2. Instale as dependências
